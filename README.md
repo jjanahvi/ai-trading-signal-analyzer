@@ -129,4 +129,3 @@ python -m src.main --symbol ETH
 | Data Models | Pydantic v2 BaseModel |
 
 ---
-*Part of an Applied AI Engineer portfolio.*
